@@ -73,8 +73,8 @@ Through kernel function. Kernel function takes the 1-d input and converts it int
 1. [The Mathematics Behind Support Vector Machine Algorithm](https://www.analyticsvidhya.com/blog/2020/10/the-mathematics-behind-svm/)
 2. [Support Vector Machine — Introduction to Machine Learning Algorithms](https://towardsdatascience.com/support-vector-machine-introduction-to-machine-learning-algorithms-934a444fca47)
 3. [Support Vector Machines for Machine Learning](https://machinelearningmastery.com/support-vector-machines-for-machine-learning/)
-4. [Support Vector Machine & PCA Tutorial for Beginner](https://www.kaggle.com/code/faressayah/support-vector-machine-pca-tutorial-for-beginner?scriptVersionId=55513076)
-
+4. [Support Vector Machine & PCA Tutorial for Beginner Kaggle](https://www.kaggle.com/code/faressayah/support-vector-machine-pca-tutorial-for-beginner?scriptVersionId=55513076)
+5. [SVM Classifier Tutorial Kaggle](https://www.kaggle.com/code/prashant111/svm-classifier-tutorial)
 
 
 
