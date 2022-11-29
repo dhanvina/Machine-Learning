@@ -1,5 +1,8 @@
-![VisitorCount](https://profile-counter.glitch.me/Machine-Learning/count.svg)
-
+![VisitorCount](https://profile-counter.glitch.me/Machine-Learning/count.svg)<br/>
+<br/>
+what  Machine Learning is?To be precise, Machine learning is a subset of artificial intelligence (AI) that provides systems with the ability to automatically learn and improve from experience without being explicitly programmed.
+<br/>
+<br/>
 Types of Machine Learning
 
 - Supervised 
